@@ -25,10 +25,10 @@ set -g status-right "#[fg=colour245,bg=white]#[fg=white,bg=colour245] %H:%M #
 
 # Window status
 set -g window-status-format "  #I #W  "
-set -g window-status-current-format "#[fg=white,bg=colour243]#[fg=white,nobold] #I #W #[fg=colour243,bg=white,nobold]"
+set -g window-status-current-format "#[fg=white,bg=colour32]#[fg=white,nobold] #I #W #[fg=colour32,bg=white,nobold]"
 
 # Current window status
-set -g window-status-current-style fg=white,bg=colour243
+set -g window-status-current-style fg=white,bg=colour32
 
 # Window with activity status
 set -g window-status-activity-style fg=white,bg=colour243
