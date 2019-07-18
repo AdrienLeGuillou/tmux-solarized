@@ -45,5 +45,5 @@ The theme should now be active.
 
 ### Preview
 
-![solarized-light](http://i.imgur.com/U9rOsoW.png)
-Font: Fira Mono
+![solarized-light](preview.png)
+Font: Source Code Pro
