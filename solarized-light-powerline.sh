@@ -21,7 +21,7 @@ set -g status-left "#[fg=white,bg=colour61,nobold] #S #[fg=colour61,bg=white]
 # Right side of status bar
 set -g status-right-style fg=colour243,bg=white
 set -g status-right-length 150
-set -g status-right "#[fg=colour245,bg=white]#[fg=white,bg=colour245] %H:%M:%S #[fg=white,bg=colour245]#[fg=colour245,bg=white] %d-%b-%y #[fg=white,bg=colour245]"
+set -g status-right "#[fg=colour245,bg=white]#[fg=white,bg=colour245] %H:%M #[fg=white,bg=colour245]#[fg=colour245,bg=white] %d-%b-%y #[fg=white,bg=colour245]"
 
 # Window status
 set -g window-status-format "  #I #W  "
@@ -40,7 +40,7 @@ set -g window-status-separator ""
 set -g pane-border-style fg=white,bg=default
 
 # Active pane border
-set -g pane-active-border-style fg=colour254,bg=default
+set -g pane-active-border-style fg=colour33,bg=default
 
 # Pane number indicator
 set -g display-panes-colour white
