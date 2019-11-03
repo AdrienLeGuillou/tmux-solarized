@@ -14,7 +14,7 @@ Manager](https://github.com/tmux-plugins/tpm).
 1.  Add plugin to the list of TPM plugins in `.tmux.conf`:
 
     ``` tmux
-    set -g @plugin 'errikos/tmux-solarized'
+    set -g @plugin 'AdrienLeGuillou/tmux-solarized'
     ```
 
 2.  Use <kbd>prefix</kbd>–<kbd>I</kbd> install `tmux-solarized`. The theme
@@ -25,7 +25,7 @@ Manager](https://github.com/tmux-plugins/tpm).
 1.  Clone the repository
 
     ``` sh
-    $ git clone https://github.com/errikos/tmux-solarized ~/clone/path
+    $ git clone https://github.com/AdrienLeGuillou/tmux-solarized ~/clone/path
     ```
 
 2.  Add this line to the bottom of `.tmux.conf`
@@ -43,7 +43,6 @@ Manager](https://github.com/tmux-plugins/tpm).
 
 The theme should now be active.
 
-### Preview
+### Credits
 
-![solarized-light](preview.png)
-Font: Source Code Pro
+Theme forked from [errikos/tmux-solarized](https://github.com/mkoga/tmux-solarized), based on [mkoga/tmux-solarized](https://github.com/mkoga/tmux-solarized).
