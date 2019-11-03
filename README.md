@@ -47,8 +47,3 @@ The theme should now be active.
 
 ![solarized-light](preview.png)
 Font: Source Code Pro
-
-### Credits
-
-This theme was forked from [mkoga/tmux-solarized](https://github.com/mkoga/tmux-solarized),
-but was later refactored to [valerino/dracula.tmux](https://github.com/valerino/dracula.tmux).
